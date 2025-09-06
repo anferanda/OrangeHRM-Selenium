@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite1" verbose="1">
+    <test name="Regression Test">
+        <classes>
+            <class name="com.saucedemo.TestSauceDemoTestNG">
+                <methods>
+                    <include name="loginOrangeHRM"/>
+                    <include name="retrieveDataAdmin"/>
+                    <include name="addUserAdmin"/>
+                    <include name="editUser"/>
+                    <include name="deleteUser"/>
+                    <include name="retrieveJob"/>
+                    <include name="addJob"/>
+                    <include name="cancelJob"/>
+                    <include name="editJob"/>
+                    <include name="deleteJob"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
