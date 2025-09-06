@@ -12,4 +12,4 @@ Project ini berisi automation testing menggunakan Selenium WebDriver dan TestNG.
 - Maven
 
 ## TestCase
-<img width="82" height="199" alt="image" src="https://github.com/user-attachments/assets/5d82d42d-8e00-4cc2-8d77-41ae6a360125" />
+<img width="736" height="664" alt="Screenshot 2025-09-06 214800" src="https://github.com/user-attachments/assets/30283be7-7349-409d-a0d7-45c64d9e513a" />
